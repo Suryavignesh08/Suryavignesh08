@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data Visualization
 - 🌱 I’m currently learning ... Data Analytics/Data Science
 - 💞️ I’m looking to collaborate on ... Jobs related to Data Analytics
-- 📫 How to reach me ... beegalasurya@gmail.com
+- 📫 How to reach me ... beegalasuryavignesh@gmail.com
 - ⚡ Fun fact: ... You'll Never Know untill you try!
 
 <!---
